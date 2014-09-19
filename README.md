@@ -1,3 +1,32 @@
+#####################
+
+CHANGE FILE NAME BEFORE COMPILING
+
+bugreport.gdb
+CHANGES.NEW
+CONFIG.RANT
+hgeol
+hgignore
+hgtags
+indent.pro
+RELEASE.NOTES
+SICI
+UPDATE
+
+LIKE THIS :
+
+.bugreport.gdb
+.CHANGES.NEW
+.CONFIG.RANT
+.hgeol
+.hgignore
+.hgtags
+.indent.pro
+.RELEASE.NOTES
+.SICI
+.UPDATE
+
+
 ==[ COMPILING ]==
 To build the ircd, run:
 ./Config
